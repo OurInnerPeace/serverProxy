@@ -18,11 +18,11 @@ http.createServer(function (request, response) {
 			console.log("网页打开中...");
 			c.exec("start " + paramArr[1]);
 		} else {
-			status = "Failed!";
+			status = "Failed";
 		}
 	
 	} catch (e) {
-		status = "Failed!";
+		status = "Failed";
 	}
 
     // 发送 HTTP 头部 
