@@ -1,10 +1,10 @@
-# severProxy
+# serverProxy
 简单的服务器代理 - 使用本地（服务器）的默认浏览器打开所请求的网址。
 
 ### 使用方法：
     1. 启动该服务
 ```sh
-    node severProxy.js
+    node serverProxy.js
 ```
   
     2. 使用以下格式发送请求到该服务
