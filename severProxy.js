@@ -1,7 +1,6 @@
 const http = require('http');
 const c = require('child_process')
 const url = require('url');
-const querystring = require('querystring');
 
 http.createServer(function (request, response) {
 
