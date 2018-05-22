@@ -25,6 +25,6 @@
 ### 注意：
     1. Node version: V8.11.1
     2. address属性赋值： 必须以"http://"开头，且目前仅支持http请求
-    3. 不指定browser时，使用默认浏览器打开
+    3. 不指定browser时，使用默认浏览器打开
 
 ### License: MIT
