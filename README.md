@@ -9,11 +9,11 @@
   
     2. 使用以下格式发送请求到该服务
 ```sh
-    http://yourserver:9519/address={yoururl}&browser={browser}
+    http://yourserver:9519/browser={browser}&address={yoururl}
 ```
     例：
 ```sh
-    http://127.0.0.1:9519/address=http://baidu.com&browser=chrome
+    http://127.0.0.1:9519/browser=chrome&address=http://baidu.com
 ```
     {yoururl}:  http://XXXXXX
     {browser}:  chrome / iexplore / default
